@@ -1,0 +1,6 @@
+{
+  "name": "ValidEx",
+  "description": "A high-security, local AI-monitored student exam client with Wails-Go bindings and computer vision architecture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
